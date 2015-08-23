@@ -38,10 +38,11 @@ background-attachment:fixed;
 }
 
 .boxed {
-font-tyle: calibri;
+  opacity: 0.7;
+font-style: calibri;
 height: 100px;
-width: 238px;
-padding: 8px;
+width: 370px;
+padding: 20px;
 border: 2px solid #3B8686;
 color: black;
 background-color: #ABCCCF;
